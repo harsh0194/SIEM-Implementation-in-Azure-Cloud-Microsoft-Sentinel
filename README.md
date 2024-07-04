@@ -9,3 +9,5 @@ SIEM Implementation in Azure Cloud
  •Enhanced threat detection with custom KQL analytics rules, enabling swift incident response to safeguard assets.
  
  •Conducted incident investigations using SIEM tools and techniques to analyze cybersecurity incidents. 
+ 
+•Implemented remediation actions to mitigate and resolve identified cybersecurity incidents, minimizing the impact on critical assets and preventing recurrence.
